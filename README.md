@@ -3,14 +3,15 @@
 Master's student in Computer Science @ Northeastern University (Graduating May 2026),
 passionate about building scalable backend systems and applying ML to real-world problems.
 
-My journey started at Coding Dojo in 2021, where I completed three full-stack tracks 
-in JavaScript, Java, and Python Django — and loved it enough to come back as a 
+My journey started at Coding Dojo in 2021, where I completed three full-stack tracks
+in JavaScript, Java, and Python Django — and loved it enough to come back as a
 Teaching Assistant in 2023.
 
 ## 🔧 What I Build
 - **Distributed Systems** — microservices, replication, CAP theorem, RabbitMQ messaging
 - **NLP & ML** — transformer fine-tuning (DeBERTa, RoBERTa), text classification
-- **Full-Stack** — React, Vite, Express.js, MySQL
+- **Full-Stack** — React, Vite, Express.js, MongoDB, MySQL
+- **LAMP Stack** — PHP, Apache, MySQL, Docker
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -31,14 +32,14 @@ Teaching Assistant in 2023.
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 4-service system with RabbitMQ, AWS ALB, CCA | Java, Spring Boot, Docker, AWS |
+| [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
 | [Distributed KV Store](https://github.com/Helenyixuanwang/distributed-kv-store) | Leader-follower & leaderless replication with tunable W/R/N | Java, Docker |
-| [Sudoku Dojo](https://yixuan-wang-sudoku.onrender.com) | Interactive Sudoku game with backtracking puzzle generator | React, Vite |
-| LLM Paraphrase Detection | 4-way text classification with DeBERTa, slang overwrite experiment | Python, HuggingFace |
+| [Sudoku Dojo](https://yixuan-wang-project3-server.onrender.com) | Full-stack app with REST API, MongoDB Atlas, bcrypt auth | Node.js, Express, React, MongoDB |
+| [SpendWise](https://github.com/Helenyixuanwang/spendwise) | LAMP expense tracker with MVC refactor branch and stored procedures | PHP, MySQL, Apache, Docker |
+| LLM Paraphrase Detection | 4-way text classification with DeBERTa, ensemble methods | Python, HuggingFace |
 
 ## 📍 Location
 Seattle, WA / Vancouver, BC
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenyixuanwang/)
-Personal Email: wangyixuan@msn.com
