@@ -1,8 +1,6 @@
 # Hi, I'm Helen (Yixuan Wang) 👋
-
 Master's student in Computer Science @ Northeastern University (Graduating May 2026),
 passionate about building scalable backend systems and applying ML to real-world problems.
-
 My journey started at Coding Dojo in 2021, where I completed three full-stack tracks
 in JavaScript, Java, and Python Django — and loved it enough to come back as a
 Teaching Assistant in 2023.
@@ -12,7 +10,7 @@ Teaching Assistant in 2023.
 - **NLP & ML** — transformer fine-tuning (DeBERTa, RoBERTa), text classification
 - **Full-Stack** — React, Vite, Express.js, MongoDB, MySQL, Django, FastAPI
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
-- **Background Tasks** — Celery, Redis, automated scheduling
+- **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -23,6 +21,7 @@ Teaching Assistant in 2023.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -32,12 +31,14 @@ Teaching Assistant in 2023.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white)
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
+| [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
 | [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
 | [Distributed KV Store](https://github.com/Helenyixuanwang/distributed-kv-store) | Leader-follower & leaderless replication with tunable W/R/N | Java, Docker |
