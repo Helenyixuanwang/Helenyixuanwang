@@ -11,6 +11,7 @@ Teaching Assistant in 2023.
 - **Full-Stack** — React, Vite, Express.js, MongoDB, MySQL, Django, FastAPI
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
 - **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
+- **DevOps** — Docker, Kubernetes, HPA, Railway, Vercel
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -26,6 +27,7 @@ Teaching Assistant in 2023.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -34,10 +36,12 @@ Teaching Assistant in 2023.
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
+| [WebCrawler](https://webcrawler-liart.vercel.app) | Full-stack web crawler with BFS crawling, content extraction, change detection, scheduled re-crawls, and Kubernetes deployment with HPA — deployed on Railway + Vercel | FastAPI, Celery, Redis, PostgreSQL, React, Docker, Kubernetes |
 | [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
 | [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
