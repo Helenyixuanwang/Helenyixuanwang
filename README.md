@@ -12,6 +12,7 @@ Teaching Assistant in 2023.
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
 - **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
 - **DevOps** — Docker, Kubernetes, HPA, Railway, Vercel
+- **AI & LLM APIs** — Anthropic Claude API, streaming responses, real-time token delivery
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -40,6 +41,7 @@ Teaching Assistant in 2023.
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
@@ -47,6 +49,7 @@ Teaching Assistant in 2023.
 | [WebCrawler](https://webcrawler-liart.vercel.app) | Full-stack web crawler with BFS crawling, content extraction, change detection, scheduled re-crawls, and Kubernetes deployment with HPA — deployed on Railway + Vercel | FastAPI, Celery, Redis, PostgreSQL, React, Docker, Kubernetes |
 | [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
 | [ClientPulse](https://client-pulse-psi.vercel.app) | Client project tracker with auth, per-user RLS, task management, and feedback board — deployed on Vercel | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [AI Chatbot](https://ai-chatbot-rho-nine-71.vercel.app) | Streaming AI assistant with real-time token delivery, multi-turn conversation history, and terminal dark UI — deployed on Vercel | Next.js, TypeScript, Tailwind CSS, Anthropic Claude API |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
 | [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
 | [Distributed KV Store](https://github.com/Helenyixuanwang/distributed-kv-store) | Leader-follower & leaderless replication with tunable W/R/N | Java, Docker |
