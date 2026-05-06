@@ -52,6 +52,7 @@ Teaching Assistant in 2023.
 | [ClientPulse](https://client-pulse-psi.vercel.app) | Client project tracker with auth, per-user RLS, task management, and feedback board — deployed on Vercel | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
 | [AI Chatbot](https://ai-chatbot-rho-nine-71.vercel.app) | Streaming AI assistant with real-time token delivery, multi-turn conversation history, and terminal dark UI — deployed on Vercel | Next.js, TypeScript, Tailwind CSS, Anthropic Claude API |
 | [Flavor Atlas](https://flavor-atlas.vercel.app) | Kid-friendly world food explorer — browse recipes by region & category with meal details and YouTube tutorials | Vite, React, TypeScript, Tailwind CSS, TheMealDB API, Vercel |
+| [YA Books Explorer](https://ya-books-explorer.vercel.app) | Young Adult book discovery app — browse by genre, search by title or author, powered by Google Books API | Vite, React, TypeScript, Tailwind CSS, Google Books API, Vercel |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
 | [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
 | [Distributed KV Store](https://github.com/Helenyixuanwang/distributed-kv-store) | Leader-follower & leaderless replication with tunable W/R/N | Java, Docker |
