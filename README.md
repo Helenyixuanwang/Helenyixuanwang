@@ -61,7 +61,6 @@ Teaching Assistant in 2023.
 | LLM Paraphrase Detection | 4-way text classification with DeBERTa, ensemble methods | Python, HuggingFace |
 
 ## 🏆 Certifications
-[![AWS Cloud Practitioner](## 🏆 Certifications
 [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/YOUR-BADGE-ID)
 )
 
