@@ -11,7 +11,7 @@ Teaching Assistant in 2023.
 - **Full-Stack** — React, Vite, Express.js, MongoDB, MySQL, Django, FastAPI
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
 - **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
-- **DevOps** — Docker, Kubernetes, HPA, Railway, Vercel
+- **DevOps** — Docker, Kubernetes, HPA, AWS ECS Fargate, ALB, ECR, Railway, Vercel
 - **AI & LLM APIs** — Anthropic Claude API, streaming responses, real-time token delivery
 
 ## 🛠️ Tech Stack
@@ -34,6 +34,7 @@ Teaching Assistant in 2023.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -48,6 +49,7 @@ Teaching Assistant in 2023.
 | Project | Description | Tech |
 |---|---|---|
 | [WebCrawler](https://webcrawler-liart.vercel.app) | Full-stack web crawler with BFS crawling, content extraction, change detection, scheduled re-crawls, and Kubernetes deployment with HPA — deployed on Railway + Vercel | FastAPI, Celery, Redis, PostgreSQL, React, Docker, Kubernetes |
+| [Product Catalog API](https://github.com/Helenyixuanwang/product-catalog-api) | FastAPI REST API containerized with Docker, deployed to AWS ECS Fargate with Application Load Balancer across multiple Availability Zones — infrastructure managed via AWS CLI | FastAPI, Docker, AWS ECS, ECR, ALB, CloudWatch, Python |
 | [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
 | [ClientPulse](https://client-pulse-psi.vercel.app) | Client project tracker with auth, per-user RLS, task management, and feedback board — deployed on Vercel | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
 | [AI Chatbot](https://ai-chatbot-rho-nine-71.vercel.app) | Streaming AI assistant with real-time token delivery, multi-turn conversation history, and terminal dark UI — deployed on Vercel | Next.js, TypeScript, Tailwind CSS, Anthropic Claude API |
