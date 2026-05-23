@@ -56,6 +56,7 @@ Teaching Assistant in 2023.
 | [Flavor Atlas](https://flavor-atlas.vercel.app) | Kid-friendly world food explorer — browse recipes by region & category with meal details and YouTube tutorials | Vite, React, TypeScript, Tailwind CSS, TheMealDB API, Vercel |
 | [YA Books Explorer](https://ya-books-explorer.vercel.app) | Young Adult book discovery app — browse by genre, search by title or author, powered by Google Books API | Vite, React, TypeScript, Tailwind CSS, Google Books API, Vercel |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
+| [History Heroes](https://history-heroes.vercel.app) | Kid-friendly biography explorer — famous people born on today's date, live Wikipedia API, daily rotating cards | Vite, React, JavaScript, Wikipedia API, Vercel |
 | [E-Commerce Microservices](https://github.com/Helenyixuanwang/ecommerce-microservices) | 15-service system with RabbitMQ, AWS ECS Fargate, ALB | Java, Spring Boot, Docker, AWS |
 | [Distributed KV Store](https://github.com/Helenyixuanwang/distributed-kv-store) | Leader-follower & leaderless replication with tunable W/R/N | Java, Docker |
 | [Sudoku Dojo](https://yixuan-wang-project3-server.onrender.com) | Full-stack app with REST API, MongoDB Atlas, bcrypt auth | Node.js, Express, React, MongoDB |
