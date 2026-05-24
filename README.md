@@ -1,5 +1,5 @@
 # Hi, I'm Helen (Yixuan Wang) 👋
-Master's student in Computer Science @ Northeastern University (Graduating May 2026),
+Software Engineer | MS Computer Science @ Northeastern University (May 2026),
 passionate about building scalable backend systems and applying ML to real-world problems.
 My journey started at Coding Dojo in 2021, where I completed three full-stack tracks
 in JavaScript, Java, and Python Django — and loved it enough to come back as a
@@ -53,6 +53,7 @@ Teaching Assistant in 2023.
 | [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
 | [ClientPulse](https://client-pulse-psi.vercel.app) | Client project tracker with auth, per-user RLS, task management, and feedback board — deployed on Vercel | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
 | [AI Chatbot](https://ai-chatbot-rho-nine-71.vercel.app) | Streaming AI assistant with real-time token delivery, multi-turn conversation history, and terminal dark UI — deployed on Vercel | Next.js, TypeScript, Tailwind CSS, Anthropic Claude API |
+| [Classic Reads](https://classic-reads-livid.vercel.app) | Classic literature browser — search and read 70,000+ public domain books from Project Gutenberg | Vite, React, TypeScript, Tailwind CSS, Gutenberg API, Vercel |
 | [Flavor Atlas](https://flavor-atlas.vercel.app) | Kid-friendly world food explorer — browse recipes by region & category with meal details and YouTube tutorials | Vite, React, TypeScript, Tailwind CSS, TheMealDB API, Vercel |
 | [YA Books Explorer](https://ya-books-explorer.vercel.app) | Young Adult book discovery app — browse by genre, search by title or author, powered by Google Books API | Vite, React, TypeScript, Tailwind CSS, Google Books API, Vercel |
 | [Job Tracker](https://job-tracker-production-4f92.up.railway.app) | Full-stack job tracker with auth, PDF export, REST API, Celery email summaries — deployed on Railway | Django, FastAPI, Celery, Redis, PostgreSQL, Docker |
