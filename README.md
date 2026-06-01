@@ -66,11 +66,11 @@ Teaching Assistant in 2023.
 
 ## 🏆 Certifications
 [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3d0dc583-b847-4a49-bb3b-3f51c13403fe/public_url)
-[![Azure Data Fundamentals DP-900](https://images.credly.com/size/110x110/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png)](https://learn.microsoft.com/en-us/users/helenwang-3810/credentials/820b13a95596a1c8)
+[![Microsoft Certified: Azure Data Fundamentals DP-900](https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals%20DP--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/helenwang-3810/credentials/820b13a95596a1c8)
 
 
 ## 📍 Location
-Seattle, WA / Vancouver, BC
+Vancouver, BC
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helenyixuanwang/)
