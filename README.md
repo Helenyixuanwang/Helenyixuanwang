@@ -67,7 +67,7 @@ Teaching Assistant in 2023.
 ## 🏆 Certifications
 [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3d0dc583-b847-4a49-bb3b-3f51c13403fe/public_url)
 [![Microsoft Certified: Azure Data Fundamentals DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/helenwang-3810/credentials/820b13a95596a1c8)
-![Top SQL 50 Badge](sql50-badge.png)
+<img src="sql50-badge.png" alt="Top SQL 50 Badge" width="150">
 
 
 ## 📍 Location
