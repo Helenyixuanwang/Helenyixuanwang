@@ -7,6 +7,7 @@ Teaching Assistant in 2023.
 
 ## 🔧 What I Build
 - **Distributed Systems** — microservices, replication, CAP theorem, RabbitMQ messaging
+- **Payments & Billing** — Stripe Checkout, webhook-driven subscription state sync, idempotent event handling
 - **NLP & ML** — transformer fine-tuning (DeBERTa, RoBERTa), text classification
 - **Full-Stack** — React, Vite, Express.js, MongoDB, MySQL, Django, FastAPI
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
@@ -31,11 +32,12 @@ Teaching Assistant in 2023.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat&logo=amazon-ecs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -48,6 +50,7 @@ Teaching Assistant in 2023.
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
+| [PayFlow](https://frontend-production-f71e.up.railway.app) | Stripe subscription billing platform — Checkout integration, webhook-driven subscription state sync with signature verification and idempotent upserts, cancel/manage flow, and automated DB migrations on container start — deployed on Railway | FastAPI, Stripe, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript, Docker |
 | [WebCrawler](https://webcrawler-liart.vercel.app) | Full-stack web crawler with BFS crawling, content extraction, change detection, scheduled re-crawls, and Kubernetes deployment with HPA — deployed on Railway + Vercel | FastAPI, Celery, Redis, PostgreSQL, React, Docker, Kubernetes |
 | [Product Catalog API](https://github.com/Helenyixuanwang/product-catalog-api) | FastAPI REST API containerized with Docker, deployed to AWS ECS Fargate with Application Load Balancer across multiple Availability Zones — infrastructure managed via AWS CLI | FastAPI, Docker, AWS ECS, ECR, ALB, CloudWatch, Python |
 | [Warehouse Dashboard](https://frontend-production-127d.up.railway.app) | Real-time warehouse task dashboard with priority job queue, background workers, retry with exponential backoff, and live status updates — deployed on Railway | NestJS, BullMQ, Redis, PostgreSQL, React, TypeScript, Material UI |
