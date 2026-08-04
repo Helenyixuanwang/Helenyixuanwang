@@ -14,6 +14,7 @@ Teaching Assistant in 2023.
 - **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
 - **DevOps** — Docker, Kubernetes, HPA, AWS ECS Fargate, ALB, ECR, Railway, Vercel
 - **AI & LLM APIs** — Anthropic Claude API, streaming responses, real-time token delivery
+- **Voice & Audio AI** — ElevenLabs text-to-speech, voice synthesis integration
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
