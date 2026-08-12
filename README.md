@@ -13,7 +13,7 @@ Teaching Assistant in 2023.
 - **LAMP Stack** — PHP, Apache, MySQL, Docker
 - **Background Tasks** — Celery, BullMQ, Redis, automated scheduling
 - **DevOps** — Docker, Kubernetes, HPA, AWS ECS Fargate, ALB, ECR, Railway, Vercel
-- **AI & LLM APIs** — Anthropic Claude API, streaming responses, real-time token delivery
+- **AI & LLM APIs** — Anthropic Claude API, streaming responses, real-time token delivery, agentic tool use (function calling, multi-turn tool orchestration)
 - **Voice & Audio AI** — ElevenLabs text-to-speech, voice synthesis integration
 
 ## 🛠️ Tech Stack
