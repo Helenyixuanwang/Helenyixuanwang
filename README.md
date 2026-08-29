@@ -73,7 +73,9 @@ Teaching Assistant in 2023.
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/HelenWANG-3810/A88D2231211C4FF5?sharingId=11260B5834F8383E">
   <img src="https://raw.githubusercontent.com/Helenyixuanwang/Helenyixuanwang/main/github-foundations.svg" alt="GitHub Foundations" width="110" height="110">
 </a>
-<img src="sql50-badge.png" alt="Top SQL 50 Badge" width="150">
+<a href="https://www.hackerrank.com/certificates/a5884c7fc46f">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate">
+</a>
 
 
 ## 📍 Location
