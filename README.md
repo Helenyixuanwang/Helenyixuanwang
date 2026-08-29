@@ -72,8 +72,9 @@ Teaching Assistant in 2023.
 [![Microsoft Certified: Azure Data Fundamentals DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/helenwang-3810/credentials/820b13a95596a1c8)
 [![GitHub Foundations](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge-social.png)](https://learn.microsoft.com/api/credentials/share/en-us/HelenWANG-3810/A88D2231211C4FF5?sharingId=11260B5834F8383E)
 <img src="sql50-badge.png" alt="Top SQL 50 Badge" width="150">
-[![HackerRank SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a5884c7fc46f)
-
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/HelenWANG-3810/A88D2231211C4FF5?sharingId=11260B5834F8383E">
+  <img src="https://raw.githubusercontent.com/Helenyixuanwang/Helenyixuanwang/main/github-foundations.svg" alt="GitHub Foundations" width="110" height="110">
+</a>
 
 ## 📍 Location
 Vancouver, BC
