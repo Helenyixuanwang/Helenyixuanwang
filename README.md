@@ -69,6 +69,7 @@ Teaching Assistant in 2023.
 
 ## 🏆 Certifications
 [![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3d0dc583-b847-4a49-bb3b-3f51c13403fe/public_url)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/ffcc4521-be22-4ca3-8ea5-4e7b65bf22f5/public_url)
 [![Microsoft Certified: Azure Data Fundamentals DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/helenwang-3810/credentials/820b13a95596a1c8)
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/HelenWANG-3810/A88D2231211C4FF5?sharingId=11260B5834F8383E">
   <img src="https://raw.githubusercontent.com/Helenyixuanwang/Helenyixuanwang/main/github-foundations.svg" alt="GitHub Foundations" width="110" height="110">
